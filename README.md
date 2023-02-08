@@ -20,3 +20,4 @@ This worksheet displays the same information as above but broken down by Gender.
 Here we see the heatmap break down of Customer vs Subscriber and when trips are taken by Days of the week, filtered by Gender. Again showing that Men are the primary Subscribers who take more trips later in the week.
 
 ## Summary
+The vizulations above provide a lot of insight into Citibike's success in NYC and that data can be used to determine if the success can translate across other cities. Based on the data above we can see that the majority of users are male so if this was to be implemented in another city, it should be targeted at cities that have a greater male then female population. For future visulizations, repeated trips by customers vs subscribers should be looked at to see if there are any future subscribers being missed out on. Then this should visulization should be broken down by gender as well. 
